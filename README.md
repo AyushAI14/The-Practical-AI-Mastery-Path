@@ -3,7 +3,7 @@
 This repository presents a **structured roadmap** to become a **Full-Stack AI Engineer** — combining Data Science, Machine Learning, Deep Learning, Generative AI, Agentic Systems, and MLOps.  
 The goal: build the exact skill stack needed to go from fundamentals → deployable AI systems.
 
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/6775ffe5-58ef-4d29-b548-c1ca2ad43a2d" />
+<img src="https://github.com/user-attachments/assets/6775ffe5-58ef-4d29-b548-c1ca2ad43a2d" width="400" />
 
 ---
 
